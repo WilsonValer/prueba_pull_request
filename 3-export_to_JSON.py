@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 """Write a Python script that, using this REST"""
+rama-edu
+
+main
 
 if __name__ == "__main__":
     url = 'https://jsonplaceholder.typicode.com/'
