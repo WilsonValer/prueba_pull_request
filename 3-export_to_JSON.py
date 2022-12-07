@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""Write a Python script that, using this REST
-   Write a Python script that, using this REST
-"""
+"""Write a Python script that, using this REST"""
 import json
 from requests import get
 from sys import argv
