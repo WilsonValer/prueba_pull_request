@@ -5,7 +5,7 @@
 import json
 from requests import get
 from sys import argv
-
+# este es uan linea de comnetario aregado en ubuntu
 
 if __name__ == "__main__":
     url = 'https://jsonplaceholder.typicode.com/'
